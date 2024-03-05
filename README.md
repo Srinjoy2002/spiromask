@@ -1,0 +1,5 @@
+In my recorded breathing audio the breathing frequency is nearly 800Hz with the Roll-off(dB per octave) being 12.
+Steps I have done:
+1. Recoding the audio using mic and Audacity.
+2. Selecting the audio and finding the sampling rate of the Audio is 44100 Hz.
+3. Using high pass filter I find the frequency to be nearly 800Hz where the breathing is most clear. And also visualised using spectrum analysis where the frequncy with highest peak below 1000 Hz is 818.261719	Hz and -88.568611 dB.
